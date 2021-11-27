@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tutorial Membuat CRUD Pada Laravel - www.malasngoding.com</title>
+	<title>Database</title>
 </head>
 <body>
 
-	<h2><a href="https://www.malasngoding.com">www.malasngoding.com</a></h2>
 	<h3>Data Pegawai</h3>
 
 	<a href="/pegawai"> Kembali</a>
@@ -21,6 +20,9 @@
 		Alamat <textarea name="alamat" required="required"></textarea> <br/>
 		<input type="submit" value="Simpan Data">
 	</form>
+
+	<br/>
+	<br/>
 
 </body>
 </html>
