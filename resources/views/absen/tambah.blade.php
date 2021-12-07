@@ -1,8 +1,6 @@
 @extends('layout.ceria')
 
-@section('title', 'ABSEN PEGAWAI')
-
-@section('isikonten')
+@section('title', 'Data Absen Pegawai')
 
 <style>
     form {
@@ -13,6 +11,8 @@
         box-align: initial;
     }
     </style>
+    
+@section('isikonten')
 
 @section('judulhalaman', 'Absensi Pegawai SM Ent.')
 
